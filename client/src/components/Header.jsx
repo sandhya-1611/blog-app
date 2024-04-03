@@ -11,7 +11,7 @@ export default function Header() {
         to='/'
         className='self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white'
       >
-        <span className='px-2 py-1 bg-gradient-to-r from-purple-300 via-teal-300 to-lime-200 rounded-lg text-white'>
+        <span className='px-2 py-1 bg-gradient-to-r from-purple-300 via-teal -300 to-lime-200 rounded-lg text-white'>
           Sandhya's
         </span>
         Blog
